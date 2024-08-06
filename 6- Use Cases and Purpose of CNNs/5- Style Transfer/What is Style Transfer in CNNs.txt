@@ -1,0 +1,1 @@
+Re-creating an image by blending the content of one image with the style of another (e.g., turning a photo into a painting in the style of Van Gogh).
