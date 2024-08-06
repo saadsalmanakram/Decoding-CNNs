@@ -1,0 +1,7 @@
+- Year: 2012
+
+- Developed by: Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton.
+
+- Description: AlexNet popularized deep learning in computer vision by winning the ImageNet competition in 2012. It consists of eight layers: five convolutional layers followed by three fully connected layers. It introduced ReLU activation and used dropout for regularization.
+
+- Key Features: Large number of filters, overlapping max-pooling, data augmentation, and the use of GPUs for training.
