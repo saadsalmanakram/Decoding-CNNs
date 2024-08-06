@@ -1,0 +1,1 @@
+Normalizes the inputs of each layer to improve training speed and stability.
