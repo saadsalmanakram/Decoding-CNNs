@@ -1,0 +1,5 @@
+Feature Extraction: The convolutional and pooling layers automatically learn to extract features like edges, textures, and shapes from the input images.
+
+Learning Hierarchies: Lower layers capture low-level features (e.g., edges), while deeper layers capture more complex structures (e.g., faces).
+
+End-to-End Training: CNNs are trained end-to-end using backpropagation and gradient descent, where the error is minimized over the entire network to improve performance on the task.
