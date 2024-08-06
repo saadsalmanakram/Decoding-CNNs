@@ -1,0 +1,1 @@
+Identifying and verifying individuals in an image by comparing facial features to a database (e.g., unlocking smartphones using face ID).
