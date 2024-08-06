@@ -1,0 +1,7 @@
+- Year: 2014
+
+- Developed by: Visual Geometry Group (VGG) at the University of Oxford.
+
+- Description: VGGNet is known for its simplicity and uniform architecture. It uses very small (3x3) convolutional filters throughout the network, with increasing depth (16 or 19 layers in VGG-16 and VGG-19). It was also a top performer in the ImageNet competition.
+
+- Key Features: Simple and uniform design, deep architecture with small convolutional filters, fixed-sized (224x224) input images.
