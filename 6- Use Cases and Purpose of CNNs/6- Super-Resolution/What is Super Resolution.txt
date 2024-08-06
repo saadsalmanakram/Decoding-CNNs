@@ -1,0 +1,1 @@
+Enhancing the resolution of an image by predicting high-frequency details (e.g., upscaling low-resolution images to high-resolution ones).
