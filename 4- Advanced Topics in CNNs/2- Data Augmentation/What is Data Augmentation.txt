@@ -1,0 +1,1 @@
+Techniques like random cropping, rotation, flipping, and scaling to artificially expand the size of a training dataset and improve model generalization.
