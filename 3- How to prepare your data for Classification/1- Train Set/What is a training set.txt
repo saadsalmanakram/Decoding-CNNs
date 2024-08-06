@@ -1,0 +1,1 @@
+This is like the main textbook for your model. It uses these images to learn by adjusting its internal settings (weights). You want this set to be big and varied, showing all the different kinds of images it needs to recognize later. Imagine teaching someone to recognize fruits by showing them lots of different apples, bananas, etc.
