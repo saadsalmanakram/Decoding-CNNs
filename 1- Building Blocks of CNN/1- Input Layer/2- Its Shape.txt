@@ -1,0 +1,1 @@
+Typically represented as a 3D matrix (height × width × depth). For example, a 224x224 RGB image will have a shape of 224x224x3.
