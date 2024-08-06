@@ -1,0 +1,5 @@
+- Calculate Mean and Variance: For each mini-batch, compute the mean and variance of the activations.
+
+- Normalize: Subtract the mean and divide by the standard deviation to normalize the activations.
+
+- Scale and Shift: Apply learnable scale (𝛾) and shift (𝛽) parameters to the normalized activations

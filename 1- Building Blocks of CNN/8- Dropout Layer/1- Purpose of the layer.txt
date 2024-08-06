@@ -1,0 +1,1 @@
+Prevents overfitting by randomly setting a fraction of input units to zero at each update during training.
