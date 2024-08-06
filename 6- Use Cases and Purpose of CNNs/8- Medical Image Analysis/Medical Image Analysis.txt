@@ -1,0 +1,1 @@
+Analyzing medical images such as X-rays, MRIs, and CT scans for diagnosis (e.g., detecting tumors or abnormalities in medical scans).
