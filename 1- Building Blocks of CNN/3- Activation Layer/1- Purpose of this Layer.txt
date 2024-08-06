@@ -1,0 +1,1 @@
+Introduces non-linearity into the network by applying an activation function to the feature maps.
