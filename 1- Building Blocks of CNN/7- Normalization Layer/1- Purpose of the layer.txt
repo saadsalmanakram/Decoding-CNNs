@@ -1,0 +1,1 @@
+Normalizes the activations of the previous layer to stabilize and speed up the training process, improve model convergence, and sometimes reduce overfitting.
