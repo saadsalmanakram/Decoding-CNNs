@@ -1,0 +1,1 @@
+Identifying and locating multiple objects within an image with bounding boxes (e.g., detecting pedestrians in a self-driving car's camera feed).
