@@ -1,0 +1,1 @@
+Uses multiple convolutional filters of different sizes in parallel to capture different types of features at each layer.
