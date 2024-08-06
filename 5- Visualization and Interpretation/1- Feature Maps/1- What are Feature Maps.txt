@@ -1,0 +1,1 @@
+Visualizing intermediate feature maps helps in understanding what the network is learning.
