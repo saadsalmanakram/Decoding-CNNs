@@ -1,0 +1,1 @@
+Dividing an image into different regions based on object boundaries or semantic categories (e.g., segmenting an image into background, person, and car regions).
