@@ -1,0 +1,1 @@
+Assigning a label to an entire image (e.g., identifying whether an image contains a cat, dog, or car).
