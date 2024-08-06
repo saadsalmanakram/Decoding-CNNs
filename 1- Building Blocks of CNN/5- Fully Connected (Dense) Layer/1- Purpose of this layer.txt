@@ -1,0 +1,1 @@
+Connects every neuron in the layer to every neuron in the previous layer, integrating the features extracted by convolutional and pooling layers to perform the final classification or regression.
