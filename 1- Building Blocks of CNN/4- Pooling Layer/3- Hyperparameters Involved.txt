@@ -1,0 +1,3 @@
+- Window Size: The size of the window (e.g., 2x2, 3x3).
+
+- Stride: Determines the step size with which the pooling window moves across the input matrix.
