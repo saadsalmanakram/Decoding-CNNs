@@ -1,0 +1,1 @@
+Reduces the spatial dimensions of the feature maps, retaining the most important information. This reduces computational complexity and controls overfitting.
