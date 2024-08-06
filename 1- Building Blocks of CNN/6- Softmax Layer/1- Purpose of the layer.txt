@@ -1,0 +1,1 @@
+Converts the raw output scores from the final fully connected layer into probabilities, which sum to 1, for multi-class classification problems.

@@ -1,0 +1,1 @@
+The Softmax function takes a vector of raw scores (logits) and applies the transformation to each score using SoftMax function.
