@@ -1,0 +1,7 @@
+Filter Size: The spatial dimensions of the filter (e.g., 3x3, 5x5).
+
+Stride: Determines the step size with which the filter moves across the input matrix.
+
+Padding: Adds zeros around the border of the input matrix to control the spatial size of the output feature map.
+
+Number of Filters: Determines the depth of the output feature map.
