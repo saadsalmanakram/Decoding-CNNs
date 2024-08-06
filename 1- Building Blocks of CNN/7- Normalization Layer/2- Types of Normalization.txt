@@ -1,0 +1,7 @@
+- Batch Normalization: Normalizes the output of a layer by adjusting and scaling the activations based on the mean and variance of the current mini-batch.
+
+- Layer Normalization: Normalizes across the features of each data sample rather than across the batch.
+
+- Instance Normalization: Normalizes across the spatial dimensions for each instance in a batch, often used in image generation tasks.
+
+- Group Normalization: Normalizes across groups of channels for each instance, striking a balance between batch and instance normalization.
