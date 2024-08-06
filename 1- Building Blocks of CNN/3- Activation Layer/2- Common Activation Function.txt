@@ -1,0 +1,5 @@
+- ReLU (Rectified Linear Unit)
+
+- Sigmoid
+
+- Tanh
