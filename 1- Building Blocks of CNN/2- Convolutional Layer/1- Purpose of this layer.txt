@@ -1,0 +1,1 @@
+Applies a convolution operation to the input data, using a set of learnable filters (kernels) to produce feature maps.

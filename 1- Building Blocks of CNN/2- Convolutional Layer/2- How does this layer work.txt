@@ -1,0 +1,1 @@
+Each filter slides over the input data, performing element-wise multiplication followed by summation, producing a single output value. This process generates a feature map for each filter.
