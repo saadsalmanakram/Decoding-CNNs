@@ -1,0 +1,1 @@
+Visualizing the learned filters gives insight into the type of features the network focuses on.
