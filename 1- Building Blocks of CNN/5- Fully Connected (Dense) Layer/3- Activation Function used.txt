@@ -1,0 +1,1 @@
+Often uses ReLU in hidden layers and softmax or sigmoid in the output layer for classification.
