@@ -1,0 +1,1 @@
+The proportion of neurons to drop (e.g., 0.5 means 50% of neurons are dropped).
