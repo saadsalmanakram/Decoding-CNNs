@@ -1,0 +1,7 @@
+- Year: 2015
+
+- Developed by: Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+
+- Description: ResNet introduced the concept of residual learning to address the degradation problem in deep networks. It allows for extremely deep networks (e.g., 50, 101, or even 152 layers) by using skip connections (residual blocks) that bypass one or more layers.
+
+- Key Features: Residual blocks, deep architecture without the risk of vanishing gradients, state-of-the-art performance in many computer vision tasks.
