@@ -1,0 +1,3 @@
+- Max Pooling: Takes the maximum value in each window.
+
+- Average Pooling: Takes the average value in each window.
