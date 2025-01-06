@@ -1,7 +1,0 @@
-- Year: 1998
-
-- Developed by: Yann LeCun and others at AT&T Labs.
-
-- Description: LeNet-5 is one of the earliest CNN architectures, designed for handwritten digit recognition (e.g., MNIST dataset). It has seven layers, including two convolutional layers, two subsampling (average pooling) layers, two fully connected layers, and one output layer with a softmax activation.
-
-- Key Features: Small kernel sizes (5x5), simple architecture, suitable for small image classification tasks.
