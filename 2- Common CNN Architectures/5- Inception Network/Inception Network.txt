@@ -1,7 +1,0 @@
-- Year: 2014
-
-- Developed by: Christian Szegedy and colleagues at Google.
-
-- Description: Inception Networks use a novel "Inception module" that applies multiple filters of different sizes (1x1, 3x3, 5x5) simultaneously to the same input, followed by concatenation of the results. This allows for multi-scale feature extraction. The original Inception (GoogLeNet) has 22 layers, and later versions (Inception-v3, Inception-v4) added more sophisticated techniques.
-
-- Key Features: Inception modules, dimensionality reduction, efficient architecture, reduced computational complexity while maintaining high performance.
