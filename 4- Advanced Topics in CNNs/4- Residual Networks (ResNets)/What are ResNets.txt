@@ -1,1 +1,0 @@
-Introduce shortcut connections to create paths that skip one or more layers, enabling the training of very deep networks by mitigating the vanishing gradient problem.
